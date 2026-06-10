@@ -1,3 +1,4 @@
 main(){
+  print("hi");  
   print("hello world");
 }
